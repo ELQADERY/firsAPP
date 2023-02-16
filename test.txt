@@ -1,1 +1,2 @@
-1. faire un overvieu sur que ce qu'on a dévoloppé et à travers cela on fait un état d'art
+1. faire un overvieu sur que ce qu'on a dévoloppé et à travers cela on fait un état d'art 
+2.puis on peut commencer chercher comment automatiser le test 
